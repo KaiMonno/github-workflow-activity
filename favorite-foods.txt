@@ -1,0 +1,4 @@
+banana, potato, strawberry, cheeseburger, salad, cabbage
+
+Bens Favorites:
+sauce, sushi
